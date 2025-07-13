@@ -4,7 +4,7 @@
 
 **Quick Access**: When viewing any GitHub repository, simply add `whatchanged` before `github.com` in the URL to instantly generate a changelog for that repo.
 
-[Live Demo](https://whatchangedgithub.com) | [Repository](https://github.com/ALLENDE123X/relix)
+You can visit the website here: whatchangedgithub.com | [Repository](https://github.com/ALLENDE123X/relix)
 
 ## 🎬 Demo Videos
 
