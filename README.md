@@ -8,7 +8,7 @@ You can visit the website here: whatchangedgithub.com
 
 [Repository](https://github.com/ALLENDE123X/relix)
 
-## 🎬 Demo Videos
+## Demo Videos
 
 **Quick Overview** (< 1 minute): [Watch Short Demo](https://www.loom.com/share/5e013c778cda4793bbb2d08a1308f87b?sid=51e4aac6-8b6b-41e5-8efc-ecc2169f1ebd)
 
@@ -104,7 +104,7 @@ As a tool built for developers, every design decision prioritized the developer 
 - **Graceful Degradation**: Clear error messages with actionable next steps
 
 #### **Efficiency Optimizations**
-- **Keyboard Shortcuts**: Power users can generate (⌘+Enter) and publish (⌘+Shift+Enter) without mouse interaction
+- **Keyboard Shortcuts**: Power users can generate (Cmd+Enter) and publish (Cmd+Shift+Enter) without mouse interaction
 - **Auto-Save Drafts**: Preserves work during editing sessions
 - **Instant Preview**: Live markdown rendering eliminates the edit-preview cycle
 
