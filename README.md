@@ -6,9 +6,16 @@
 
 [Live Demo](https://whatchangedgithub.com) | [Repository](https://github.com/ALLENDE123X/relix)
 
+## 🎬 Demo Videos
+
+**Quick Overview** (< 1 minute): [Watch Short Demo](https://www.loom.com/share/5e013c778cda4793bbb2d08a1308f87b?sid=51e4aac6-8b6b-41e5-8efc-ecc2169f1ebd)
+
+**Complete Walkthrough** (9 minutes): [Watch Full Demo](https://www.loom.com/share/decd0027950d4467b49cdf27af042259?sid=dd11fb23-0ee4-4af4-8bcd-a4f0029b4294)
+
 ## Table of Contents
 
 **Core Features:**
+- [Demo Videos](#-demo-videos)
 - [Project Overview](#project-overview)
 - [Live Demo](#live-demo)
 - [User-Centered Product Design](#user-centered-product-design)
