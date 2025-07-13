@@ -115,11 +115,11 @@ curl -X POST http://localhost:3000/api/generate \
 ```
 
 ## Features
-- ✅ Input validation with Zod
-- ✅ Environment variable validation
-- ✅ Overlap detection (prevents duplicate slices)
-- ✅ GitHub API integration with pagination
-- ✅ OpenAI integration for changelog generation
-- ✅ Comprehensive error handling
-- ✅ Support for all three modes (date, sha, tag)
-- ✅ Exported helper functions for testing 
+- Input validation with Zod
+- Environment variable validation
+- Overlap detection (prevents duplicate slices)
+- GitHub API integration with pagination
+- OpenAI integration for changelog generation
+- Comprehensive error handling
+- Support for all three modes (date, sha, tag)
+- Exported helper functions for testing 
