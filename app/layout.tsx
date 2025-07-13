@@ -10,8 +10,7 @@ const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
   title: "Changelog Console",
-  description: "AI-powered changelog generator for developers",
-  generator: 'v0.dev'
+  description: "AI-powered changelog generator for developers"
 }
 
 export default function RootLayout({
