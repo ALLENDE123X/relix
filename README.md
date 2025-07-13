@@ -74,6 +74,9 @@ Relix automates this entire workflow by:
 ### Pro Tip:
 When browsing any GitHub repository, simply change `github.com` to `whatchangedgithub.com` in your browser's address bar to instantly access the changelog generator for that specific repo.
 
+### Production Security Note:
+This setup is purely for demo purposes. In a true production environment, only authorized contributors to public repositories would be allowed to generate changelogs. This could be implemented by offering a GitHub SSO option to verify contributor permissions before allowing changelog generation.
+
 ## User-Centered Product Design
 
 ### Developer-First Experience Design
